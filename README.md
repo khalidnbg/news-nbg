@@ -1,3 +1,3 @@
 # React + Vite
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/khalidnbg/news-nbg/blob/main/1.PNG?raw=true)
